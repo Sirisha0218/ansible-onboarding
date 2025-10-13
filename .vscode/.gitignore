@@ -1,0 +1,14 @@
+# Python venv
+.venv/
+
+# Editor files
+.vscode/
+__pycache__/
+*.pyc
+
+# SSH keys (just in case)
+id_ed25519
+id_ed25519.pub
+
+# macOS
+.DS_Store
